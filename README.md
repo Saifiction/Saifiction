@@ -4,6 +4,7 @@
     <a href="https://www.linkedin.com/in/devlone/" title="LinkedIn Profile"><img width="22" src="images/LinkedIn.png"> LinkedIn</a></code>
   <code><a href="https://saifiction.itch.io" title="itch.io Profile"><img width="22" src="images/Itch.png"> Itch.io</a></code>
   <code><a href="https://fb.com/EzraFiction09" title="Facebook"><img width="22" src="images/Facebook.png"> Facebook</a></code>
+  <code><a href="Resume.pdf" title="Resume"><img width="22" src="images/Portfolio.png"> Resume</a></code>
 </h5>
 
 - 🔭 I’m currently working on VR projects (This never seems to end :rofl: )
