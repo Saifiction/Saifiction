@@ -52,15 +52,3 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Saifiction&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-
-
-### Connect with me:
-
-
-- 📫 How to reach me & Where I'm at on the Internet : 
-  - fb.com/EzraFiction09
-  - Saif_fiction@outlook.com
-  - linkedin.com/in/devlone
-  - saifiction.itch.io
-## I'm a Husband, Father, Developer, and Teacher!!
