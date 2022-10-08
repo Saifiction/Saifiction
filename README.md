@@ -1,4 +1,8 @@
 - 🔭 I’m currently working on VR projects (This never seems to end :rofl: )
 - :dizzy:	Trying to work more on shaders both in and outside unity to have more grasp over the complex aspects ...
 - :sunglasses: I’m Trying to find more time to try out different things not specifically based on unity 
-- 📫 How to reach me: fb.com/EzraFiction09 - Email - linkedin.com/in/devlone
+- 📫 How to reach me & Where I'm at on the Internet : 
+  - fb.com/EzraFiction09
+  - Saif_fiction@outlook.com
+  - linkedin.com/in/devlone
+  - saifiction.itch.io
