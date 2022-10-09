@@ -1,17 +1,19 @@
 # Hi there, I'm Saif, Developer, Teacher 👋 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/devlone/" title="LinkedIn Profile"><img width="22" src="images/LinkedIn.png"> LinkedIn</a></code>
-  <code><a href="https://saifiction.itch.io" title="itch.io Profile"><img width="22" src="images/Itch.png"> Itch.io</a></code>
-  <code><a href="https://fb.com/EzraFiction09" title="Facebook"><img width="22" src="images/Facebook.png"> Facebook</a></code>
-  <code><a href="Resume.pdf" title="Resume"><img width="22" src="images/Portfolio.png"> Resume</a></code>
-</h5>
 
 - 🔭 I’m currently working on VR projects (This never seems to end :rofl: )
 - :dizzy:	I'm trying to find more time to work on cool shaders ...
 - 🥅 2022 Mission : To publish your next favorite card game
 - :fist_raised: I'm always open to working on challenging project 
 
+  #### 📫 How to reach me:
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/devlone/)  &nbsp; 
+  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://fb.com/EzraFiction09)  &nbsp; 
+  [<img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" width="3.5%"/>](https://discord.com/users/172143775961972739)  &nbsp;
+  [<img src="https://img.icons8.com/dusk/64/000000/itch-io.png" width="3.5%"/>](https://saifiction.itch.io)  &nbsp;
+  [<img src="https://img.icons8.com/fluency/48/000000/steam.png" width="3.5%"/>](https://steamcommunity.com/id/Filgrand/)  &nbsp; 
+  <a href="mailto:Saif_fiction@outlook.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
+  
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
