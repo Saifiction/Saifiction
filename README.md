@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on VR projects (This never seems to end :rofl: )
 - :dizzy:	I'm trying to find more time to work on cool shaders ...
 - 🥅 2022 Mission : To publish your next favorite card game
-- :fist_raised: I'm always open to working on challenging project 
+- :fist_raised: I'm always open to working on challenging projects 
 
   #### 📫 How to reach me:
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/devlone/)  &nbsp; 
